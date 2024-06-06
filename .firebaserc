@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ang-medlife": {
+      "hosting": {
+        "medlife": [
+          "ang-medlife"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ang-medlife"
+  }
+}
